@@ -1,0 +1,36 @@
+img{
+    border-radius: 5px !important;
+}
+.col-md-3{
+    margin: 30px !important;
+}
+p{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#navbar{
+    background-color: black;
+}
+li{
+    color: white;
+    list-style-type: none;
+    display: inline;
+   margin-left: 30px !important;
+}
+#nav-elements{
+    
+    text-align: center !important;
+    padding: 10px;
+}
+#title{
+
+    font-size: 30px !important;
+}
+#footer{
+
+    background-color: brown;
+    text-align: center !important;
+    color: white;
+    padding: 10px !important;
+}
